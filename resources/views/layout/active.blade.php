@@ -1,0 +1,1 @@
+{{Route::currentRouteNamed( $route_name ) ? 'active' : ''}}
